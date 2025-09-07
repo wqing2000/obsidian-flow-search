@@ -1,11 +1,12 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
+	"id": "flow-search",
+	"name": "Flow Search",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "Demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
-	"isDesktopOnly": false
+	"description": "A unified Alfred-like search box for Obsidian. Quickly search notes, folders, bookmarks, recent files, templates, and custom commands from a single entry point.",
+	"author": "qing",
+	"authorUrl": "https://github.com/wqing2000",
+	"repository": "https://github.com/wqing2000/obsidian-flow-search",
+	"fundingUrl": "",
+	"isDesktopOnly": true
 }
